@@ -37,6 +37,13 @@ public class AdminUserAct extends BaseAct {
 	// 用户管理列表测试测试测试测试
 	// 用户管理列表测试测试测试测试
 	// 用户管理列表测试测试测试测试
+	//王治国第二次提交
+	//王治国第二次提交
+	//王治国第二次提交
+	//王治国第二次提交
+	//王治国第二次提交
+	//王治国第二次提交
+	//王治国第二次提交
 	@RequestMapping(value = "/admin_user.html")
 	public String admin_user(Integer pageSize, String mobile, String username,
 			HttpServletRequest request, HttpServletResponse response,
