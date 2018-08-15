@@ -30,7 +30,13 @@ public class AdminUserAct extends BaseAct {
 	@Autowired
 	private CountryService countryService;
 	
-	// 用户管理列表
+	// 用户管理列表测试测试测试测试
+	// 用户管理列表测试测试测试测试
+	// 用户管理列表测试测试测试测试
+	// 用户管理列表测试测试测试测试
+	// 用户管理列表测试测试测试测试
+	// 用户管理列表测试测试测试测试
+	// 用户管理列表测试测试测试测试
 	@RequestMapping(value = "/admin_user.html")
 	public String admin_user(Integer pageSize, String mobile, String username,
 			HttpServletRequest request, HttpServletResponse response,
